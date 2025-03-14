@@ -1,7 +1,7 @@
 import telebot
 from modol import get_class
 # Замени 'TOKEN' на токен твоего бота
-bot = telebot.TeleBot("7560127020:AAGXtHllWmykj1TsLaSEsaqiv77gP8phc44")
+bot = telebot.TeleBot("SEKRET")
 
 @bot.message_handler(commands=['start'])
 def send_welcome(message):
