@@ -1,0 +1,7 @@
+0 Cat
+1 Guinea pig
+2 Dog
+3 Snake
+4 Mini pig
+5 Chinchilla
+6 House mouse
